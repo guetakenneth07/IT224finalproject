@@ -80,7 +80,7 @@ export default function DemographicCard() {
                 USA
               </p>
               <span className="block text-gray-500 text-theme-xs dark:text-gray-400">
-                2,379 Customers
+                10 Customers
               </span>
             </div>
           </div>
@@ -111,7 +111,7 @@ export default function DemographicCard() {
                 France
               </p>
               <span className="block text-gray-500 text-theme-xs dark:text-gray-400">
-                589 Customers
+                10 Customers
               </span>
             </div>
           </div>
